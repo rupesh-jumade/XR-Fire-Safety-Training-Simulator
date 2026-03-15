@@ -14,7 +14,7 @@
 # ===========================
 # UNITY PACKAGE CACHE
 # ===========================
-/[Pp]ackages/
+/[Pp]ackages/*
 !/[Pp]ackages/manifest.json
 !/[Pp]ackages/packages-lock.json
 
